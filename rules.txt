@@ -1,0 +1,5 @@
+Rules about the business
+1. Business has customers who have unique ids, names, meter numbers, phone numbers, address
+2. For existing customers meter reading is taken every month and the bill is calculated based on their
+   consumption and rate
+4. The system tracks who has paid for the month and who has not
